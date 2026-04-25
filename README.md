@@ -1,1 +1,1 @@
-# Gliding-Simulator
+Gliding simulator, is my first game and project, i now understanded how roblox studio works, i am proud of what i did, gliding simulator It's a very simple game, so there won't be much to say, this game is a simulator where you have to simulate a hang gliding adventure, only there will be increasingly difficult dangers to avoid as you go along, gliding from coins and diamonds, with them, you can buy hang gliders, eggs for pets, and also, also rebirth to improve your earnings,  I hope you enjoy this first game! I don't know what to say now, so bye!
